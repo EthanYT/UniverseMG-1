@@ -7,5 +7,6 @@ public class Rank
 {
     public enum Ranks {
         OWNER()
+        //please add more! :)
     }
 }
